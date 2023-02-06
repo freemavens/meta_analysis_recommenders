@@ -1,0 +1,11 @@
+name: base_recommender_system
+title:
+username:
+account: fm-datascience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6786138
+bundleId: 6202674
+url: https://fm-datascience.shinyapps.io/base_recommender_system/
+when: 1660566404.38571
+lastSyncTime: 1660566404.38577

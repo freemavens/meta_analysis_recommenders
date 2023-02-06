@@ -1,0 +1,11 @@
+name: pernod_ricard_recommender_system
+title:
+username:
+account: fm-datascience
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6785823
+bundleId: 6202712
+url: https://fm-datascience.shinyapps.io/pernod_ricard_recommender_system/
+when: 1660567290.54716
+lastSyncTime: 1660567290.54721
